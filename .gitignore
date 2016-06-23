@@ -69,3 +69,11 @@ crashlytics-build.properties
 fabric.properties
 /.idea/
 /jarcoder.iml
+/jarcoder-module/jarcoder-module-uc/jarcoder-module-uc.iml
+/jarcoder-web/jarcoder-web.iml
+/jarcoder-module/jarcoder-module.iml
+/jarcoder-module/jarcoder-module-uc/jarcoder-module-uc-model/jarcoder-module-uc-model.iml
+/jarcoder-module/jarcoder-module-uc/jarcoder-module-uc-data/jarcoder-module-uc-data.iml
+/jarcoder-module/jarcoder-module-uc/jarcoder-module-uc-client/jarcoder-module-uc-client.iml
+/jarcoder-module/jarcoder-module-uc/jarcoder-module-uc-api-server/jarcoder-module-uc-api-server.iml
+/jarcoder-module/jarcoder-module-uc/jarcoder-module-uc-api/jarcoder-module-uc-api.iml
