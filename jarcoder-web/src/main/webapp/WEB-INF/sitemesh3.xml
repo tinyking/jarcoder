@@ -1,0 +1,5 @@
+<sitemesh>
+    <mapping path="/*" decorator="/WEB-INF/decorators/content-decorator.ftl" />
+    <mapping path="/login" decorator="/WEB-INF/decorators/login-decorator.ftl" />
+    <mapping path="/logout" decorator="/WEB-INF/decorators/login-decorator.ftl" />
+</sitemesh>
